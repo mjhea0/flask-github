@@ -1,0 +1,7 @@
+venv
+*.pyc
+*.swp
+*.DS_STORE
+
+config.ru
+config.py
